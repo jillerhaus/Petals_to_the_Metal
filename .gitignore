@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+__pycache__
+tfrecords*
+petal_helper.py
+sample_submission.csv
+
